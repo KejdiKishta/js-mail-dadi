@@ -21,10 +21,10 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 2. **gioco dei dadi**
 - input
-- [ ] al click del tasto genera generiamo 2 numeri casuali da 1 a 6
+- [x] al click del tasto genera generiamo 2 numeri casuali da 1 a 6
 - logica
-- [ ] se il primo numero è maggiore del secondo vince l'user
-- [ ] se il secondo numero è maggiore del primo vince il computer
-- [ ] altrimenti pareggio
+- [x] se il primo numero è maggiore del secondo vince l'user
+- [x] se il secondo numero è maggiore del primo vince il computer
+- [x] altrimenti pareggio
 - output
-- [ ] stampare chi ha vinto o pareggio
+- [x] stampare chi ha vinto o pareggio
