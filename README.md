@@ -12,12 +12,12 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 1. **mail**
 - input
-- [ ] Chiedi all’utente la sua email,
+- [x] Chiedi all’utente la sua email,
 - logica
-- [ ] creiamo con array la lista delle mail che possono accedere
-- [ ] confrontiamo la lista con la mail inserita
-- [ ] se la mail è valida accediamo al gioco 
-- [ ] altrimenti scriviamo che la mail è errata
+- [x] creiamo con array la lista delle mail che possono accedere
+- [x] confrontiamo la lista con la mail inserita
+- [x] se la mail è valida accediamo al gioco 
+- [x] altrimenti scriviamo che la mail è errata
 
 2. **gioco dei dadi**
 - input
