@@ -9,8 +9,30 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <button id="generate">Generate</button>
-    <!-- script -->
+
+    <h1>ROLLING DICE GAME</h1>
+    <div class="container">
+        <div id="winner">
+        </div>
+        <div class="user-draw">
+            <div class="user-img">
+                <img src="./dice faces/dice-six-faces-one.svg" alt="" class="hidden">
+            </div>
+            <h3 class="red">PIPPO</h3>
+        </div>
+        <h2><span class="red">V</span><span class="blue">S</span></h2>
+        <div class="cpu-draw">
+            <div class="cpu-img">
+                <img src="./dice faces/dice-six-faces-one.svg" alt="" class="hidden">
+            </div>
+            <h3 class="blue">COMPUTER</h3>
+        </div>
+    </div>
+
+    <button id="generate" class="button" data-text="Awesome">
+        <span class="actual-text">&nbsp;roll&nbsp;</span>
+        <span aria-hidden="true" class="hover-text">&nbsp;roll&nbsp;</span>
+    </button>    <!-- script -->
     <script src="./js/script.js"></script>
 </body>
 </html>
